@@ -1,0 +1,18 @@
+[submodule "lab1"]
+	path = lab1
+	url = git@github.com:notnuff-university-projects/asd_lab_2.1.git
+[submodule "lab2"]
+	path = lab2
+	url = git@github.com:notnuff-university-projects/asd_lab_2.2.git
+[submodule "lab3"]
+	path = lab3
+	url = git@github.com:notnuff-university-projects/asd_lab_2.3.git
+[submodule "lab4"]
+	path = lab4
+	url = git@github.com:notnuff-university-projects/asd_lab_2.4.git
+[submodule "lab5"]
+	path = lab5
+	url = git@github.com:notnuff-university-projects/asd_lab_2.5.git
+[submodule "lab6"]
+	path = lab6
+	url = git@github.com:notnuff-university-projects/asd_lab_2.6.git
